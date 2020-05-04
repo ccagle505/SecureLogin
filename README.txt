@@ -1,3 +1,3 @@
-This repository consists of two faily simple classes which can be used to create and simple login gui with hashed password functionality
+This repository consists of two fairly simple classes which can be used to create and simple login gui with hashed password functionality
 The HashedPassword class enables the creation of a password object which utilizes an MD5 hashing algorith.
 The HashedPasswordLogin class creates a gui in which the user can create PWs(stored on the local machine) and log in using a created password.
