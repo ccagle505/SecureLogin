@@ -2,8 +2,6 @@
 /**
 * This class creates a simple HashedPassword object that contains 
 * fields for a hashed PW and salt
-*
-* @author  Chris C
 * @version 1.0
 * @since   2020-03-26 
 */
