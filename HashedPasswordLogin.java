@@ -13,8 +13,6 @@
 *
 * Note: password info is currently stored in the local project folder.
 * Functionality will need to be added to send user file to specific locale.
-* 
-* @author  Chris C
 * @version 1.0
 * @since   2020-03-26 
 */
